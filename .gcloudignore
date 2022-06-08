@@ -1,0 +1,17 @@
+
+.gcloudignore
+.git
+.gitignore
+
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Frontend
+static
+node_modules
+dist
